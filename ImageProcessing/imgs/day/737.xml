@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>737.jpg</filename>
+	<path>/media/infinity/ap/data/737.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>214</width>
+		<height>140</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>character</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>126</xmin>
+			<ymin>76</ymin>
+			<xmax>164</xmax>
+			<ymax>111</ymax>
+		</bndbox>
+	</object>
+</annotation>
